@@ -100,7 +100,7 @@ hi Typedef         guifg=#66D9EF
 hi Type            guifg=#66D9EF               gui=none
 hi Underlined      guifg=#808080               gui=underline
 
-hi VertSplit       guifg=#808080 guibg=#080808 gui=bold
+hi VertSplit       guifg=#000000 guibg=#000000 gui=bold
 hi VisualNOS                     guibg=#403D3D
 hi Visual                        guibg=#403D3D
 hi WarningMsg      guifg=#FFFFFF guibg=#333333 gui=bold
@@ -122,7 +122,7 @@ if s:molokai_original == 1
 else
    hi Normal          guifg=#F8F8F2 guibg=#1B1D1E
    hi Comment         guifg=#7E8E91
-   hi CursorLine                    guibg=#293739
+   hi CursorLine                    guibg=#222526
    hi CursorLineNr    guifg=#FD971F               gui=none
    hi CursorColumn                  guibg=#293739
    hi ColorColumn                   guibg=#232526
